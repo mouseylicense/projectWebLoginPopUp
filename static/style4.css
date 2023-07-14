@@ -53,7 +53,12 @@ html {
   height: 30vh;
   margin-top: 180px;
 }
+.popup{
+  display:none;
+  background-color:#9bdcf5 ;
+  border: 1px solid #025464;
 
+}
 .container {
   opacity: 0;
   animation: fadeIn 2s ease-in-out forwards;
